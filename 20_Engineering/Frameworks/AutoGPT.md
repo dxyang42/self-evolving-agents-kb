@@ -5,6 +5,20 @@
 
 ---
 
+## 📡 最新状态（基于搜索验证）
+
+- **最新版本**：autogpt-platform-beta-v0.6.16（2025 年 7 月发布）
+- **GitHub Stars**：超过 178K（截至 2025 年 9 月），是有史以来增长最快的开源 AI 项目之一
+- **2024-2025 关键进展**：
+  - **平台化转型**：从早期命令行工具演变为完整的 AI 自动化平台（AutoGPT Platform），支持可视化工作流编排
+  - **Block Development SDK**：引入模块化 Block 系统，支持自定义 Agent 能力块的开发
+  - **监控与告警**：新增错误率监控、Discord 告警等企业级运维功能
+  - **融资里程碑**：项目获得 1200 万美元融资，由 Significant Gravitas 团队持续维护
+  - **Agent Protocol 标准化**：采用 AI Engineer Foundation 的 Agent Protocol 标准，提升与其他系统的互操作性
+- **现状评估**：AutoGPT 已从"实验性原型"进化为"生产级平台"，但核心架构（目标分解→思考→行动→记忆）保持稳定
+
+---
+
 ## 🏗️ 架构概览
 
 AutoGPT 采用经典的 **目标分解 → 思考 → 行动 → 记忆** 循环架构，将 LLM 的推理能力扩展为可自主执行任务的 Agent 系统。
