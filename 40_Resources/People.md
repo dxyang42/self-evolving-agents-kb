@@ -27,7 +27,7 @@
 - **名称**: Sakana AI（さかなAI）
 - **链接**: https://sakana.ai/
 - **简介**: 由前 Google Brain 研究人员 Llion Jones 和 David Ha 创立的东京 AI 实验室。专注于"自然启发智能"——让 AI 像生物进化一样自我组织、自我改进。
-- **为什么重要**: Sakana AI 是少数将进化计算与 LLM 深度融合的工业界团队。他们提出的 [[AI-Scientist]] 是第一个能全自动进行科学发现（从读论文到写论文）的系统，代表了自进化 Agent 从玩具任务走向真实科研的里程碑。其"自然启发"哲学也与 [[30_Philosophy/|哲学维度]] 中的生物进化类比高度相关。
+- **为什么重要**: Sakana AI 是少数将进化计算与 LLM 深度融合的工业界团队。他们提出的 [[AI-Scientist]] 是第一个能全自动进行科学发现（从读论文到写论文）的系统，代表了自进化 Agent 从玩具任务走向真实科研的里程碑。其"自然启发"哲学也与 [[30_Philosophy/哲学维度 MOC|哲学维度]] 中的生物进化类比高度相关。
 - **标签**: #people/team #type/resource
 
 ---
@@ -90,7 +90,7 @@
 - **名称**: Andrew Ng（吴恩达）
 - **链接**: https://www.andrewng.com/ | https://deeplearning.ai/
 - **简介**: AI 领域最具影响力的教育家之一，DeepLearning.AI 创始人，前 Google Brain 负责人、百度首席科学家。
-- **为什么重要**: 吴恩达在 2024 年提出的 [[Agentic AI]] 和 [[Agentic Workflow]] 概念，将 Agents 从学术概念推向产业实践。他的课程和演讲定义了"Agent 设计模式"（反思、工具使用、规划、多 Agent 协作）的标准框架，是连接 [[10_Academic/|学术维度]] 与 [[20_Engineering/|工程维度]] 的关键桥梁。
+- **为什么重要**: 吴恩达在 2024 年提出的 [[Agentic AI]] 和 [[Agentic Workflow]] 概念，将 Agents 从学术概念推向产业实践。他的课程和演讲定义了"Agent 设计模式"（反思、工具使用、规划、多 Agent 协作）的标准框架，是连接 [[10_Academic/学术维度 MOC|学术维度]] 与 [[20_Engineering/工程维度 MOC|工程维度]] 的关键桥梁。
 - **标签**: #people/researcher #type/resource
 
 ---

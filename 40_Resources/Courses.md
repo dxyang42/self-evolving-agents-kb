@@ -36,7 +36,7 @@
 - **名称**: Lex Fridman Podcast — AI Agents 系列访谈
 - **链接**: https://lexfridman.com/
 - **简介**: Lex Fridman 对 AI 领域顶级研究者的长格式深度访谈，涵盖 Agent 架构、安全、意识等主题。
-- **为什么重要**: Lex Fridman 的访谈以深度和广度著称，单集时长常达 3-4 小时，允许受访者充分展开思路。推荐关注他与 [[Jim Fan]]、[[Yejin Choi]]、[[François Chollet]] 等 Agent 相关研究者的对话。这些访谈提供了论文之外的"研究动机"和"未发表想法"，对于理解 [[30_Philosophy/|哲学维度]] 和 [[OpenProblems]] 特别有价值。
+- **为什么重要**: Lex Fridman 的访谈以深度和广度著称，单集时长常达 3-4 小时，允许受访者充分展开思路。推荐关注他与 [[Jim Fan]]、[[Yejin Choi]]、[[François Chollet]] 等 Agent 相关研究者的对话。这些访谈提供了论文之外的"研究动机"和"未发表想法"，对于理解 [[30_Philosophy/哲学维度 MOC|哲学维度]] 和 [[OpenProblems]] 特别有价值。
 - **标签**: #video/podcast #type/resource
 
 ---

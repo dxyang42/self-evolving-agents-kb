@@ -27,7 +27,7 @@
 - **名称**: Building LLM Agents with DSPy
 - **链接**: https://sebastianraschka.com/blog/2024/dspy-introduction.html
 - **简介**: Sebastian Raschka 对 DSPy 框架的深度教程，涵盖从基础概念到复杂 Agent 流水线的完整实践路径。
-- **为什么重要**: [[DSPy]] 是声明式 LLM 编程的标杆框架，其"优化器自动调优提示词"的理念与自进化 Agents 高度契合——Agent 可以自我优化自身的提示策略。Sebastian 的教程以代码驱动，将 DSPy 的抽象概念落地为可运行的实现，是 [[20_Engineering/|工程维度]] 的核心参考资料。
+- **为什么重要**: [[DSPy]] 是声明式 LLM 编程的标杆框架，其"优化器自动调优提示词"的理念与自进化 Agents 高度契合——Agent 可以自我优化自身的提示策略。Sebastian 的教程以代码驱动，将 DSPy 的抽象概念落地为可运行的实现，是 [[20_Engineering/工程维度 MOC|工程维度]] 的核心参考资料。
 - **标签**: #blog/tutorial #type/resource
 
 ---
@@ -36,7 +36,7 @@
 - **名称**: Understanding Large Language Models — A Transformative Reading List
 - **链接**: https://sebastianraschka.com/blog/2023/llm-reading-list.html
 - **简介**: Sebastian Raschka 维护的 LLM 核心论文阅读清单，从 Transformer 到 InstructGPT 到现代 Agent 系统，按主题分类并附个人点评。
-- **为什么重要**: 在信息爆炸的时代，一份经过专家筛选的高质量阅读清单比一百篇随机论文更有价值。这份清单特别强调了 [[In-Context Learning]]、[[Chain-of-Thought]] 和 [[Instruction Tuning]] 等 Agent 能力的理论基础，是构建 [[10_Academic/|学术维度]] 知识体系的骨架。
+- **为什么重要**: 在信息爆炸的时代，一份经过专家筛选的高质量阅读清单比一百篇随机论文更有价值。这份清单特别强调了 [[In-Context Learning]]、[[Chain-of-Thought]] 和 [[Instruction Tuning]] 等 Agent 能力的理论基础，是构建 [[10_Academic/学术维度 MOC|学术维度]] 知识体系的骨架。
 - **标签**: #blog/reading-list #type/resource
 
 ---
@@ -108,7 +108,7 @@
 - **名称**: Agentic AI: The Next Evolution of AI
 - **链接**: https://www.deeplearning.ai/the-batch/issue-262/
 - **简介**: 吴恩达（Andrew Ng）在 DeepLearning.AI Newsletter 中的系列文章，定义 Agentic AI 的概念、设计模式与产业应用。
-- **为什么重要**: 吴恩达的 Agentic AI 框架（反思、工具使用、规划、多 Agent 协作）已成为行业标准术语。他的文章将学术概念翻译为工程师可执行的模式，是连接 [[10_Academic/|学术]] 与 [[20_Engineering/|工程]] 的最佳桥梁。对于自进化 Agents，他的"工作流 vs  Agent"分析帮助研究者思考：哪些能力应该内嵌，哪些应该通过进化获得。
+- **为什么重要**: 吴恩达的 Agentic AI 框架（反思、工具使用、规划、多 Agent 协作）已成为行业标准术语。他的文章将学术概念翻译为工程师可执行的模式，是连接 [[10_Academic/学术维度 MOC|学术]] 与 [[20_Engineering/工程维度 MOC|工程]] 的最佳桥梁。对于自进化 Agents，他的"工作流 vs  Agent"分析帮助研究者思考：哪些能力应该内嵌，哪些应该通过进化获得。
 - **标签**: #blog/framework #type/resource
 
 ---
