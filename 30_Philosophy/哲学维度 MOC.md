@@ -8,7 +8,7 @@
 ## 🤔 反思 [[Reflections]]
 
 ### 自我意识
-- [[Machine Consciousness]] — 机器意识
+- [[Reflections/Machine Consciousness]] — 机器意识
 - [[Self-Model]] — 自我模型
 - [[Meta-Cognition]] — 元认知
 
@@ -23,8 +23,9 @@
 ## ⚠️ 风险 [[Risks]]
 
 ### 安全威胁
-- [[Reward Hacking]] — 奖励黑客
-- [[Deceptive Alignment]] — 欺骗性对齐
+- [[Risks/Reward Hacking]] — 奖励黑客
+- [[Risks/Deceptive Alignment]] — 欺骗性对齐
+- [[Risks/Goal Drift]] — 目标漂移
 - [[Capability Overhang]] — 能力悬垂
 - [[Emergent Goals]] — 涌现目标
 
@@ -38,7 +39,7 @@
 ## 🌿 类比 [[Analogies]]
 
 ### 生物进化
-- [[Natural Selection]] — 自然选择
+- [[Analogies/Natural Selection]] — 自然选择
 - [[Evolutionary Pressure]] — 进化压力
 - [[Fitness Landscape]] — 适应度景观
 - [[Punctuated Equilibrium]] — 间断平衡
